@@ -1,0 +1,26 @@
+[
+    {   
+        "userNumber": "Signing in with First user",
+        "username" : "tpptutor@gmail.com",
+        "expected" : "tppuser" ,       
+        "password" : "ForTesting123*",
+        "expectedString": "Welcome to Etsy"       
+        
+    },
+    {
+        "userNumber": "Signing in with Second user",
+        "username" : "tpptutor1@gmail.com",
+        "expected" : "tppuserone",
+        "password" : "ForTesting123*",
+        "expectedString": "Welcome to Etsy"                 
+        
+    },
+    {
+        "userNumber": "Signing in with Third user",
+        "username" : "tpptutor2@gmail.com",
+        "expected" : "tppusertwo",
+        "password" : "ForTesting123*",
+        "expectedString": "Welcome to Etsy"
+        
+    }
+]
